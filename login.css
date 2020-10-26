@@ -1,0 +1,17 @@
+.formulario{
+    margin: 50px 400px;
+    padding: 30px 30px;
+    background-color: beige;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+#id{
+    text-align: center;
+    
+}
+
+body{
+
+    background-color: cadetblue;
+}

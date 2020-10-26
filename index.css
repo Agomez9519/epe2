@@ -1,0 +1,52 @@
+.nav-enlace{
+display: inline-block;
+ background: salmon ;
+ color: wheat;
+ padding: 10px 30px;
+  text-decoration: none;
+  justify-content:space-around;
+}
+
+.nav-enlace:hover{
+    background:rosybrown ;
+}
+
+nav{
+
+    background:beige;
+    padding: 10px;
+    display: flex;
+    margin: 0 auto;
+    justify-content:space-between;
+
+}
+
+.nav-button{
+
+    background: salmon;
+    color: white;
+    padding: 10px 0;
+    border: 2px solid white;
+    display: none;
+    justify-content:space-around;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+
+    background-color: cadetblue;
+}
+
+img{
+    width: 60%;
+    margin: 20px 250px;
+  
+}
+
+p{
+    text-align: justify;
+    font-size: 1rem;
+}
